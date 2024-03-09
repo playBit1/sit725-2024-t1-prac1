@@ -1,0 +1,19 @@
+h1 {
+  font-size: xx-large;
+}
+
+.center_div {
+  text-align: center;
+}
+
+.random_button_div_container {
+  display: flex;
+  justify-content: center;
+}
+
+.random_button_div {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
